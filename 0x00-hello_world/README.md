@@ -1,1 +1,1 @@
-this c hello world
+puts
