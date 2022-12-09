@@ -27,7 +27,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d anr is less than 6 and not 0\n", m);
+		printf("%d and is less than 6 and not 0\n", m);
 	}
 	return (0);
 }
