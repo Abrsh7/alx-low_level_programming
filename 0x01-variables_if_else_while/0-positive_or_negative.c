@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - main block
- * description: get a random number and print number
- * Return 0
+ * main- serves as the entry point to the program
+ * Return: 0
  */
 
 int main(void)
